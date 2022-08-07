@@ -1,0 +1,60 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+ERROR:root:And non-ASCII stuff, too, like Ã˜resund and MalmÃ¶
+DEBUG:This message should go to the log file
+INFO:So should this
+DEBUG:This message should go to the log file
+INFO:So should this
+DEBUG:This message should go to the log file
+INFO:So should this
+DEBUG:This message should go to the log file
+INFO:So should this
+DEBUG:This message should go to the log file
+INFO:So should this
+WARNING:And this, too
+ERROR:And non-ASCII stuff, too, like Øresund and Malmö
+2022-07-20 22:34:09,248:This message should go to the log file
+2022-07-20 22:34:09,248:So should this
+2022-07-20 22:34:09,248:This message should go to the log file
+2022-07-20 22:34:09,248:So should this
+2022-07-20 22:34:09,249:This message should go to the log file
+2022-07-20 22:34:09,249:So should this
+2022-07-20 22:34:09,249:This message should go to the log file
+2022-07-20 22:34:09,249:So should this
+2022-07-20 22:34:09,249:This message should go to the log file
+2022-07-20 22:34:09,249:So should this
+2022-07-20 22:34:09,249:And this, too
+2022-07-20 22:34:09,249:And non-ASCII stuff, too, like Øresund and Malmö
+2022-07-20 22:34:33,946:DEBUG:This message should go to the log file
+2022-07-20 22:34:33,947:INFO:So should this
+2022-07-20 22:34:33,947:DEBUG:This message should go to the log file
+2022-07-20 22:34:33,947:INFO:So should this
+2022-07-20 22:34:33,947:DEBUG:This message should go to the log file
+2022-07-20 22:34:33,947:INFO:So should this
+2022-07-20 22:34:33,947:DEBUG:This message should go to the log file
+2022-07-20 22:34:33,947:INFO:So should this
+2022-07-20 22:34:33,947:DEBUG:This message should go to the log file
+2022-07-20 22:34:33,947:INFO:So should this
+2022-07-20 22:34:33,947:WARNING:And this, too
+2022-07-20 22:34:33,948:ERROR:And non-ASCII stuff, too, like Øresund and Malmö
+2022-07-20 22:34:48,448 --DEBUG -- This message should go to the log file 
+2022-07-20 22:34:48,448 --INFO -- So should this 
+2022-07-20 22:34:48,448 --DEBUG -- This message should go to the log file 
+2022-07-20 22:34:48,448 --INFO -- So should this 
+2022-07-20 22:34:48,448 --DEBUG -- This message should go to the log file 
+2022-07-20 22:34:48,448 --INFO -- So should this 
+2022-07-20 22:34:48,448 --DEBUG -- This message should go to the log file 
+2022-07-20 22:34:48,448 --INFO -- So should this 
+2022-07-20 22:34:48,448 --DEBUG -- This message should go to the log file 
+2022-07-20 22:34:48,449 --INFO -- So should this 
+2022-07-20 22:34:48,449 --WARNING -- And this, too 
+2022-07-20 22:34:48,449 --ERROR -- And non-ASCII stuff, too, like Øresund and Malmö 
